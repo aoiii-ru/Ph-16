@@ -112,7 +112,7 @@ function App() {
 
   return (
     <div className="min-h-screen bg-orange-100 px-4 py-10">
-      <div className="mx-auto max-w-lg">
+      <div className="mx-auto max-w-lg shadow">
 
         <div className="mb-8 text-center">
           <p className="mb-2 text-4xl">✈️ 🧳 🌈</p>
